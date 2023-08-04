@@ -17,7 +17,7 @@ Website: https://f4r9.com
 - WarFire
 - Meteor
 - Secret project 🤫
-- 
+
 <!--
 **SelyanSel/SelyanSel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
