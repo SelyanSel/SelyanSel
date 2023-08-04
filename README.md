@@ -16,6 +16,7 @@ Website: https://f4r9.com
 - Primitive Survival (free multiplayer survival game)
 - WarFire
 - Meteor
+- AppLink
 - Secret project 🤫
 
 <!--
