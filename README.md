@@ -13,7 +13,6 @@ Website: https://f4r9.com
 * I am still learning C++! I put the unreal logo but I mean blueprints :)
 
 ## Currently working on:
-- Primitive Survival (free multiplayer survival game)
 - WarFire
 - Meteor
 - AppLink
