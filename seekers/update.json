@@ -1,0 +1,7 @@
+{
+  "main_menu":{
+    "warning":true,
+    "warning_title":"alpha",
+    "warning_text":"Welcome to Seekers Alpha! This is a test build."
+  }
+}
