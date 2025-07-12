@@ -2,7 +2,6 @@
 
 I'm a french young developer.
 <br>
-Website: https://f4r9.xyz
 
 ## Tools I use:
 ![](https://skillicons.dev/icons?i=unreal,visualstudio,vscode,postman,powershell)
@@ -13,10 +12,10 @@ Website: https://f4r9.xyz
 * I am still learning C++! I put the unreal logo but I mean blueprints :)
 
 ## Currently working on:
-- WarFire
-- Meteor
-- AppLink
-- Secret project 🤫
+- Other projects
+
+## Contact me if you need my services :)
+> [Send me an email](mailto:pro.selyansel@outlook.com)
 
 <!--
 **SelyanSel/SelyanSel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
